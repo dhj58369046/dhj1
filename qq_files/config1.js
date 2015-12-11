@@ -1,0 +1,5 @@
+;(function(){var params= {"list":[{"bg":"http://qzonestyle.gtimg.cn/qzone/qzactStatics/imgs/20151105165147_de95cb.jpg","logoColor":"white","bottomColor":"white","authorPrev":"","authorSign":"作品来自腾讯原创馆","authorHref":"http://ycg.qq.com/","pv_key":"ziyi1","author_pv_key":"name_ziyi1"},{"bg":"http://qzonestyle.gtimg.cn/qzone/qzactStatics/imgs/20151105165211_bed280.jpg","logoColor":"white","bottomColor":"white","authorPrev":"","authorSign":"作品来自腾讯原创馆","authorHref":"http://ycg.qq.com/","pv_key":"ziyi2","author_pv_key":"name_ziyi2"},{"bg":"http://qzonestyle.gtimg.cn/qzone/qzactStatics/imgs/20151201191854_ff8fef.jpg","logoColor":"white","bottomColor":"white","authorPrev":"","authorSign":"作品来自腾讯原创馆","authorHref":"http://ycg.qq.com/","pv_key":"catandgirl","author_pv_key":"catandgirl1"}]};
+typeof callback_179_config1 === "function" && callback_179_config1(params)
+this.define && define(function (require, exports, module) {
+return params});
+})()
